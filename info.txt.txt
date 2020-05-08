@@ -8,3 +8,9 @@ git push -u origin master
 git clone origin master
 git pull origin master
                  
+				 
+				 User connection
+				 
+				 
+git config --global user.email "gwganesh88@gmail.com"
+git config --global user.name "ganeshwakde"
