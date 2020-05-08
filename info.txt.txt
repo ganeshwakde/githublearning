@@ -1,0 +1,10 @@
+git init
+git add [file name] || -A
+git status 
+git commit -m "first commit"
+git remote add origin reponame -[git@github.com:ganeshwakde/githublearning.git]
+git push -u origin master
+
+git clone origin master
+git pull origin master
+                 
